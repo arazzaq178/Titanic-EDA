@@ -78,7 +78,7 @@ This project performs an exploratory data analysis on the famous Titanic dataset
 
 ## 📮 Contact
 **Author**: Abdul Razzaq  
-**Email**: [your-email@example.com]  
-**GitHub**: [github.com/yourusername]
+**Email**: [aransari216@gmail.com]  
+**GitHub**: [github.com/arazzaq178]
 
 ---
